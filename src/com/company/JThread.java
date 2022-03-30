@@ -44,6 +44,7 @@ public class JThread implements Runnable{
                 System.out.println(e.getMessage());
             }
         }
+        //afwefeafegi
         catch (Exception e)
         {
             e.getMessage();
